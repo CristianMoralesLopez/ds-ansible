@@ -3,3 +3,4 @@ packages:
   - python36
   - python36-pip
   - postgresql
+mirror: 192.168.131.121 icesi.mirror.edu.co
